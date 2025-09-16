@@ -53,7 +53,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=MohamedAzizJnayah&show_icons=true" height="165" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedAzizJnayah&layout=compact" height="165" />
   <br/>
-  <img src="https://streak-stats.demolab.com?user=USERNAME" height="165" />
+  <img src="https://streak-stats.demolab.com?user=MohamedAzizJnayah" height="165" />
 </div>
 
 ---
